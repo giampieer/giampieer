@@ -1,7 +1,7 @@
 
 <div align="center">
   <h2> 
-    Hi, there! I am Giampieer <img src="https://github.com/giampieer/giampieer/blob/main/gif/hi.gif" width="30px">
+    Hi, there! I am Giampieer <img src="https://github.com/giampieer/giampieer/blob/main/gif/hi.gif" width="30px" height="30px">
   </h2>
 </div>
 
