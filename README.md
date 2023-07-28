@@ -9,7 +9,7 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:giampieer24@gmail.com)](mailto:giampieer24@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giampieer-mariscal/)](https://www.linkedin.com/in/giampieer-mariscal/)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=+51922680724)](https://api.whatsapp.com/send?phone=+51922680724)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white&link=https://wa.me/+51922680724)](https://wa.me/+51922680724)
 
 ### Technology Stack:
 ### ⚙️ &nbsp;GitHub Analytics
